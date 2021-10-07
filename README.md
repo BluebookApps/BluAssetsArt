@@ -6,6 +6,8 @@ Objects
   CB Low Poly Sci-Fi Guns (/Cuboom)
   Bomb Cute Series
   Toon Water URP (TODO: Import)
+  Pig Mega Toon Series
+  Lowpoly Destructible Crates, Barrels and Jars (/OneOffDesign)
     
 Particles
   Effectcore

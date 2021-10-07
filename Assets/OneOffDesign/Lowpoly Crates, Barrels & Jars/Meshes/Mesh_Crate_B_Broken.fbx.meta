@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: cd21bfb3503801d4e89ed1f510590b57
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SM_Crate_B_Broken_01
+    100004: SM_Crate_B_Broken_02
+    100006: SM_Crate_B_Broken_03
+    100008: SM_Crate_B_Broken_04
+    100010: SM_Crate_B_Broken_05
+    100012: SM_Crate_B_Broken_06
+    100014: SM_Crate_B_Broken_07
+    100016: SM_Crate_B_Broken_08
+    100018: SM_Crate_B_Broken_09
+    100020: SM_Crate_B_Broken_10
+    100022: SM_Crate_B_Broken_11
+    100024: SM_Crate_B_Broken_12
+    100026: SM_Crate_B_Broken_13
+    100028: SM_Crate_B_Broken_14
+    100030: SM_Crate_B_Broken_15
+    100032: SM_Crate_B_Broken_16
+    100034: SM_Crate_B_Broken_17
+    100036: SM_Crate_B_Broken_18
+    100038: SM_Crate_B_Broken_19
+    100040: SM_Crate_B_Broken_20
+    100042: SM_Crate_B_Broken_21
+    100044: SM_Crate_B_Broken_22
+    100046: SM_Crate_B_Broken_23
+    400000: //RootNode
+    400002: SM_Crate_B_Broken_01
+    400004: SM_Crate_B_Broken_02
+    400006: SM_Crate_B_Broken_03
+    400008: SM_Crate_B_Broken_04
+    400010: SM_Crate_B_Broken_05
+    400012: SM_Crate_B_Broken_06
+    400014: SM_Crate_B_Broken_07
+    400016: SM_Crate_B_Broken_08
+    400018: SM_Crate_B_Broken_09
+    400020: SM_Crate_B_Broken_10
+    400022: SM_Crate_B_Broken_11
+    400024: SM_Crate_B_Broken_12
+    400026: SM_Crate_B_Broken_13
+    400028: SM_Crate_B_Broken_14
+    400030: SM_Crate_B_Broken_15
+    400032: SM_Crate_B_Broken_16
+    400034: SM_Crate_B_Broken_17
+    400036: SM_Crate_B_Broken_18
+    400038: SM_Crate_B_Broken_19
+    400040: SM_Crate_B_Broken_20
+    400042: SM_Crate_B_Broken_21
+    400044: SM_Crate_B_Broken_22
+    400046: SM_Crate_B_Broken_23
+    2100000: Mat_CrateAndBarrel
+    2100002: Mat_CrateAndBarrel.001
+    2100004: Mat_CrateAndBarrel.005
+    2100006: Mat_CrateAndBarrel.006
+    2100008: Mat_CrateAndBarrel.003
+    2100010: Mat_CrateAndBarrel.004
+    2300000: SM_Crate_B_Broken_01
+    2300002: SM_Crate_B_Broken_02
+    2300004: SM_Crate_B_Broken_03
+    2300006: SM_Crate_B_Broken_04
+    2300008: SM_Crate_B_Broken_05
+    2300010: SM_Crate_B_Broken_06
+    2300012: SM_Crate_B_Broken_07
+    2300014: SM_Crate_B_Broken_08
+    2300016: SM_Crate_B_Broken_09
+    2300018: SM_Crate_B_Broken_10
+    2300020: SM_Crate_B_Broken_11
+    2300022: SM_Crate_B_Broken_12
+    2300024: SM_Crate_B_Broken_13
+    2300026: SM_Crate_B_Broken_14
+    2300028: SM_Crate_B_Broken_15
+    2300030: SM_Crate_B_Broken_16
+    2300032: SM_Crate_B_Broken_17
+    2300034: SM_Crate_B_Broken_18
+    2300036: SM_Crate_B_Broken_19
+    2300038: SM_Crate_B_Broken_20
+    2300040: SM_Crate_B_Broken_21
+    2300042: SM_Crate_B_Broken_22
+    2300044: SM_Crate_B_Broken_23
+    3300000: SM_Crate_B_Broken_01
+    3300002: SM_Crate_B_Broken_02
+    3300004: SM_Crate_B_Broken_03
+    3300006: SM_Crate_B_Broken_04
+    3300008: SM_Crate_B_Broken_05
+    3300010: SM_Crate_B_Broken_06
+    3300012: SM_Crate_B_Broken_07
+    3300014: SM_Crate_B_Broken_08
+    3300016: SM_Crate_B_Broken_09
+    3300018: SM_Crate_B_Broken_10
+    3300020: SM_Crate_B_Broken_11
+    3300022: SM_Crate_B_Broken_12
+    3300024: SM_Crate_B_Broken_13
+    3300026: SM_Crate_B_Broken_14
+    3300028: SM_Crate_B_Broken_15
+    3300030: SM_Crate_B_Broken_16
+    3300032: SM_Crate_B_Broken_17
+    3300034: SM_Crate_B_Broken_18
+    3300036: SM_Crate_B_Broken_19
+    3300038: SM_Crate_B_Broken_20
+    3300040: SM_Crate_B_Broken_21
+    3300042: SM_Crate_B_Broken_22
+    3300044: SM_Crate_B_Broken_23
+    4300000: SM_Crate_B_Broken_01
+    4300002: SM_Crate_B_Broken_02
+    4300004: SM_Crate_B_Broken_03
+    4300006: SM_Crate_B_Broken_04
+    4300008: SM_Crate_B_Broken_05
+    4300010: SM_Crate_B_Broken_06
+    4300012: SM_Crate_B_Broken_07
+    4300014: SM_Crate_B_Broken_08
+    4300016: SM_Crate_B_Broken_09
+    4300018: SM_Crate_B_Broken_10
+    4300020: SM_Crate_B_Broken_11
+    4300022: SM_Crate_B_Broken_12
+    4300024: SM_Crate_B_Broken_13
+    4300026: SM_Crate_B_Broken_14
+    4300028: SM_Crate_B_Broken_15
+    4300030: SM_Crate_B_Broken_16
+    4300032: SM_Crate_B_Broken_17
+    4300034: SM_Crate_B_Broken_18
+    4300036: SM_Crate_B_Broken_19
+    4300038: SM_Crate_B_Broken_20
+    4300040: SM_Crate_B_Broken_21
+    4300042: SM_Crate_B_Broken_22
+    4300044: SM_Crate_B_Broken_23
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_CrateAndBarrel
+    second: {fileID: 2100000, guid: ce72a053f11c36e41b5ed2218c35ba3d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

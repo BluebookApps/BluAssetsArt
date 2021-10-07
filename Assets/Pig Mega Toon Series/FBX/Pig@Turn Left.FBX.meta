@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 8080f595611ef2a4bbf9fc9dabcf4826
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Dummy001
+    100002: Pig
+    100004: //RootNode
+    100006: Rig
+    100008: RigHead
+    100010: RigHeadGizmo
+    100012: RigLBLeg1
+    100014: RigLBLeg2
+    100016: RigLBLegAnkle
+    100018: RigLBLegPlatform
+    100020: RigLFLeg1
+    100022: RigLFLeg2
+    100024: RigLFLegAnkle
+    100026: RigLFLegPlatform
+    100028: RigNeck
+    100030: RigPelvis
+    100032: RigPelvisGizmo
+    100034: RigRBLeg1
+    100036: RigRBLeg2
+    100038: RigRBLegAnkle
+    100040: RigRBLegPlatform
+    100042: RigRFLeg1
+    100044: RigRFLeg2
+    100046: RigRFLegAnkle
+    100048: RigRFLegPlatform
+    100050: RigRibcage
+    100052: RigRibcageGizmo
+    100054: RigSpine
+    100056: RigTail1
+    100058: RigTail1Gizmo
+    100060: RigTail2
+    100062: RigTail2Gizmo
+    100064: RigTail3
+    100066: RigTail3Gizmo
+    400000: Dummy001
+    400002: Pig
+    400004: //RootNode
+    400006: Rig
+    400008: RigHead
+    400010: RigHeadGizmo
+    400012: RigLBLeg1
+    400014: RigLBLeg2
+    400016: RigLBLegAnkle
+    400018: RigLBLegPlatform
+    400020: RigLFLeg1
+    400022: RigLFLeg2
+    400024: RigLFLegAnkle
+    400026: RigLFLegPlatform
+    400028: RigNeck
+    400030: RigPelvis
+    400032: RigPelvisGizmo
+    400034: RigRBLeg1
+    400036: RigRBLeg2
+    400038: RigRBLegAnkle
+    400040: RigRBLegPlatform
+    400042: RigRFLeg1
+    400044: RigRFLeg2
+    400046: RigRFLegAnkle
+    400048: RigRFLegPlatform
+    400050: RigRibcage
+    400052: RigRibcageGizmo
+    400054: RigSpine
+    400056: RigTail1
+    400058: RigTail1Gizmo
+    400060: RigTail2
+    400062: RigTail2Gizmo
+    400064: RigTail3
+    400066: RigTail3Gizmo
+    2100000: 'Material #25'
+    4300000: Pig
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Pig
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
