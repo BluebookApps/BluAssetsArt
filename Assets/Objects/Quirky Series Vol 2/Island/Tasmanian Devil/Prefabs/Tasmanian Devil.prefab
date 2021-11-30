@@ -1,0 +1,407 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2556188064692191013
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2556188064692191012}
+  - component: {fileID: 6877782471772184692}
+  - component: {fileID: 7235526035047036200}
+  m_Layer: 0
+  m_Name: Tasmanian Devil
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2556188064692191012
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2556188064692191013}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4918340529984403594}
+  - {fileID: 854920170710372404}
+  - {fileID: 5886118500847740378}
+  - {fileID: 5553585003498824926}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!205 &6877782471772184692
+LODGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2556188064692191013}
+  serializedVersion: 2
+  m_LocalReferencePoint: {x: 0.00077444315, y: 0.7606013, z: -0.029364109}
+  m_Size: 3.2980833
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
+  m_LastLODIsBillboard: 0
+  m_LODs:
+  - screenRelativeHeight: 0.8474909
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 4918340529998490034}
+  - screenRelativeHeight: 0.5963291
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 854920170707419404}
+  - screenRelativeHeight: 0.3002867
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 5886118500836406498}
+  - screenRelativeHeight: 0.05
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 5553585003502040550}
+  m_Enabled: 1
+--- !u!136 &7235526035047036200
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2556188064692191013}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.5970292
+  m_Height: 2.5972502
+  m_Direction: 2
+  m_Center: {x: 0, y: 0.82474756, z: 0.3199612}
+--- !u!1001 &3387050245006234295
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2556188064692191012}
+    m_Modifications:
+    - target: {fileID: 7067120205914401353, guid: 62edfcc5620f50a48abdc9ad755c12f7,
+        type: 3}
+      propertyPath: m_Name
+      value: TasmanianDevil_LOD3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067120205914502761, guid: 62edfcc5620f50a48abdc9ad755c12f7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067120205914502761, guid: 62edfcc5620f50a48abdc9ad755c12f7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067120205914502761, guid: 62edfcc5620f50a48abdc9ad755c12f7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067120205914502761, guid: 62edfcc5620f50a48abdc9ad755c12f7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067120205914502761, guid: 62edfcc5620f50a48abdc9ad755c12f7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067120205914502761, guid: 62edfcc5620f50a48abdc9ad755c12f7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067120205914502761, guid: 62edfcc5620f50a48abdc9ad755c12f7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067120205914502761, guid: 62edfcc5620f50a48abdc9ad755c12f7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067120205914502761, guid: 62edfcc5620f50a48abdc9ad755c12f7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067120205914502761, guid: 62edfcc5620f50a48abdc9ad755c12f7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067120205914502761, guid: 62edfcc5620f50a48abdc9ad755c12f7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 62edfcc5620f50a48abdc9ad755c12f7, type: 3}
+--- !u!4 &5553585003498824926 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7067120205914502761, guid: 62edfcc5620f50a48abdc9ad755c12f7,
+    type: 3}
+  m_PrefabInstance: {fileID: 3387050245006234295}
+  m_PrefabAsset: {fileID: 0}
+--- !u!137 &5553585003502040550 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 7067120205911287633, guid: 62edfcc5620f50a48abdc9ad755c12f7,
+    type: 3}
+  m_PrefabInstance: {fileID: 3387050245006234295}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5972665425582204086
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2556188064692191012}
+    m_Modifications:
+    - target: {fileID: 6430685975244974242, guid: 41dc0fa3b0591954f827547d6966439b,
+        type: 3}
+      propertyPath: m_Name
+      value: TasmanianDevil_LOD1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430685975245468802, guid: 41dc0fa3b0591954f827547d6966439b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430685975245468802, guid: 41dc0fa3b0591954f827547d6966439b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430685975245468802, guid: 41dc0fa3b0591954f827547d6966439b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430685975245468802, guid: 41dc0fa3b0591954f827547d6966439b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430685975245468802, guid: 41dc0fa3b0591954f827547d6966439b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430685975245468802, guid: 41dc0fa3b0591954f827547d6966439b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430685975245468802, guid: 41dc0fa3b0591954f827547d6966439b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430685975245468802, guid: 41dc0fa3b0591954f827547d6966439b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430685975245468802, guid: 41dc0fa3b0591954f827547d6966439b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430685975245468802, guid: 41dc0fa3b0591954f827547d6966439b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6430685975245468802, guid: 41dc0fa3b0591954f827547d6966439b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 41dc0fa3b0591954f827547d6966439b, type: 3}
+--- !u!4 &854920170710372404 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6430685975245468802, guid: 41dc0fa3b0591954f827547d6966439b,
+    type: 3}
+  m_PrefabInstance: {fileID: 5972665425582204086}
+  m_PrefabAsset: {fileID: 0}
+--- !u!137 &854920170707419404 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 6430685975239763386, guid: 41dc0fa3b0591954f827547d6966439b,
+    type: 3}
+  m_PrefabInstance: {fileID: 5972665425582204086}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8236840225463579226
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2556188064692191012}
+    m_Modifications:
+    - target: {fileID: 2585227936500173728, guid: 5b50126e555842f4c94f48b62c350a3a,
+        type: 3}
+      propertyPath: m_Name
+      value: TasmanianDevil_LOD2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2585227936500406144, guid: 5b50126e555842f4c94f48b62c350a3a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2585227936500406144, guid: 5b50126e555842f4c94f48b62c350a3a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2585227936500406144, guid: 5b50126e555842f4c94f48b62c350a3a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2585227936500406144, guid: 5b50126e555842f4c94f48b62c350a3a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2585227936500406144, guid: 5b50126e555842f4c94f48b62c350a3a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2585227936500406144, guid: 5b50126e555842f4c94f48b62c350a3a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2585227936500406144, guid: 5b50126e555842f4c94f48b62c350a3a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2585227936500406144, guid: 5b50126e555842f4c94f48b62c350a3a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2585227936500406144, guid: 5b50126e555842f4c94f48b62c350a3a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2585227936500406144, guid: 5b50126e555842f4c94f48b62c350a3a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2585227936500406144, guid: 5b50126e555842f4c94f48b62c350a3a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5b50126e555842f4c94f48b62c350a3a, type: 3}
+--- !u!4 &5886118500847740378 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2585227936500406144, guid: 5b50126e555842f4c94f48b62c350a3a,
+    type: 3}
+  m_PrefabInstance: {fileID: 8236840225463579226}
+  m_PrefabAsset: {fileID: 0}
+--- !u!137 &5886118500836406498 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 2585227936497059512, guid: 5b50126e555842f4c94f48b62c350a3a,
+    type: 3}
+  m_PrefabInstance: {fileID: 8236840225463579226}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8572993658586188427
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2556188064692191012}
+    m_Modifications:
+    - target: {fileID: 3654689689980579361, guid: ab35266dc4c544840891020d7e7b6aaa,
+        type: 3}
+      propertyPath: m_Name
+      value: TasmanianDevil_LOD0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3654689689980678657, guid: ab35266dc4c544840891020d7e7b6aaa,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3654689689980678657, guid: ab35266dc4c544840891020d7e7b6aaa,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3654689689980678657, guid: ab35266dc4c544840891020d7e7b6aaa,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3654689689980678657, guid: ab35266dc4c544840891020d7e7b6aaa,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3654689689980678657, guid: ab35266dc4c544840891020d7e7b6aaa,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3654689689980678657, guid: ab35266dc4c544840891020d7e7b6aaa,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3654689689980678657, guid: ab35266dc4c544840891020d7e7b6aaa,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3654689689980678657, guid: ab35266dc4c544840891020d7e7b6aaa,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3654689689980678657, guid: ab35266dc4c544840891020d7e7b6aaa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3654689689980678657, guid: ab35266dc4c544840891020d7e7b6aaa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3654689689980678657, guid: ab35266dc4c544840891020d7e7b6aaa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ab35266dc4c544840891020d7e7b6aaa, type: 3}
+--- !u!4 &4918340529984403594 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3654689689980678657, guid: ab35266dc4c544840891020d7e7b6aaa,
+    type: 3}
+  m_PrefabInstance: {fileID: 8572993658586188427}
+  m_PrefabAsset: {fileID: 0}
+--- !u!137 &4918340529998490034 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 3654689689975366457, guid: ab35266dc4c544840891020d7e7b6aaa,
+    type: 3}
+  m_PrefabInstance: {fileID: 8572993658586188427}
+  m_PrefabAsset: {fileID: 0}
