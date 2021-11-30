@@ -1,0 +1,51 @@
+
+This pack was made by Daniel Rodrigues.
+Feel free to visit my portfolio: https://www.artstation.com/danielrodrigues111111111111
+
+____________________________________________________________________________________________________________________________________________________________
+
+
+This pack contains the following folders:
+
+- "3d meshes" - Contains the 3d models imported.
+
+- "Prefabs" - Contains all the prefabs of the models. These prefabs are all mounted with the same material: "Mat_Atlas". They also have colliders and most of them are static (Exceptions being: "Pref_Coin", "Pref_Exclamation" and "Pref_Interrogation").
+
+- "Materials" - Contains one single material used in all the prefabs, 1 skybox material used for the background color of the scenes "Scn_DesertMap", "Scn_ForestMap" and "Scn_SnowMap" and another skybox material used for the background color of the scene "Scn_AllAssets".
+
+- "Textures" - Contains 1 texture atlas used for the single material of the prefabs.
+
+- "Scenes" - contains 4 scenes: "Scn_DesertMap", "Scn_ForestMap", "Scn_SnowMap" and "Scn_AllAssets". The first 3 scenes are 3 different environments and countain some post-processing and an orthographic camera ready. The "Scn_AllAssetsScene" contains all the prefabs organized in a grid.
+
+
+How to setup your own scene:
+
+1 - Use the prefabs on the folder "prefabs".
+
+3 - Mount them however you want in the scene.
+
+4 - Apply changes to the prefabs however you want (Rigidbodies, scripts, etc.)
+
+5 - Do your own Post-processing or feel free to use the ones in the other scenes. Each map has it's own recommended Post-Processing.
+
+IMPORTANT:
+
+You'll need to have the Post Processing Stack installed on your Unity Editor in order to be able to see the Post Processing done. In order to do this, follow the next steps:
+Go to Window --> Package Manager.  Search "Post Processing" and install it.
+
+How to use the Post-processing in other scenes:
+
+1 - Go to your main-camera and add the component: Post-process Layer. If it doesn't appear, You'll have to go to: Window --> Package Manager. Search "Post Processing" and install it.
+It should now appear.
+
+2 - In the component, choose the layer "Post Processing". If you can't find one, just create it by going to the layer selection on the top right corner, and choosing "Add layer".
+
+3 - add an Anti-aliasing mode of your choice (I advise "Fast approximate Anti-aliasing (FXAA)").
+
+4 - In the hierarchy window, create a Post-process Volume (in the "3d objects" tab), go to the inspector window and search for a profile. Make sure "Is global" is checked. Change the layer of this object to the layer you added in step 2.
+
+To do your own Post-Processing, just do the same steps, but in the end, create your own profile. Then, you can just add the effects in that component.
+____________________________________________________________________________________________________________________________________________________________
+
+If you have any questions, feel free to contact me: 
+danielrune13@hotmail.com
