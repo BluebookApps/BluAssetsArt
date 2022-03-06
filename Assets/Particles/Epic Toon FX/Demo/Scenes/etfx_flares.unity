@@ -456,10 +456,6 @@ Prefab:
       propertyPath: randomSeed
       value: 1006536944
       objectReference: {fileID: 0}
-    - target: {fileID: 19831056, guid: 583747229c17d7d47b9a05fa71e1d6f9, type: 2}
-      propertyPath: randomSeed
-      value: -1025351816
-      objectReference: {fileID: 0}
     - target: {fileID: 453916, guid: 583747229c17d7d47b9a05fa71e1d6f9, type: 2}
       propertyPath: m_LocalEulerAnglesHint.x
       value: -90

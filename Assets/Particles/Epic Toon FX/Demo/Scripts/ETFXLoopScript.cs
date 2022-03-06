@@ -10,8 +10,8 @@ namespace EpicToonFX
 	
 		[Header("Spawn without")]
 	
-		public bool spawnWithoutLight = true;
-		public bool spawnWithoutSound = true;
+		public bool disableLights = true;
+		public bool disableSound = true;
 
 		void Start ()
 		{	
@@ -27,19 +27,16 @@ namespace EpicToonFX
 		{
 			GameObject effectPlayer = (GameObject) Instantiate(chosenEffect, transform.position, transform.rotation);
 		
-			if(spawnWithoutLight = true && effectPlayer.GetComponent<Light>())
+			if (disableLights && effectPlayer.GetComponent<Light>())
 			{
 				effectPlayer.GetComponent<Light>().enabled = false;
-				//Destroy(gameObject.GetComponent<Light>());
-
 			}
-		
-			if(spawnWithoutSound = true && effectPlayer.GetComponent<AudioSource>())
+
+			if (disableSound && effectPlayer.GetComponent<AudioSource>())
 			{
 				effectPlayer.GetComponent<AudioSource>().enabled = false;
-				//Destroy(gameObject.GetComponent<AudioSource>());
 			}
-				
+			
 			yield return new WaitForSeconds(loopTimeLimit);
 
 			Destroy (effectPlayer);

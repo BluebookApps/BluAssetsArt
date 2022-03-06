@@ -3,6 +3,9 @@ using System.Collections;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
+namespace ETFXPEL
+{
+
 public enum ButtonTypes {
 	NotDefined,
 	Previous,
@@ -36,4 +39,5 @@ public class PEButtonScript : MonoBehaviour, IEventSystemHandler, IPointerEnterH
 		// Button Click Actions
 		UICanvasManager.GlobalAccess.UIButtonClick(ButtonType);
 	}
+}
 }

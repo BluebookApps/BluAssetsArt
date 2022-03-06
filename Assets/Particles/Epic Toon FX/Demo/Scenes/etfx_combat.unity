@@ -248,7 +248,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenEffect: {fileID: 150944, guid: 3b9161edba9968c48bd058067ad18c84, type: 2}
-  loopTimeLimit: 0.7
+  loopTimeLimit: 0.6
   spawnWithoutLight: 1
   spawnWithoutSound: 1
 --- !u!1 &351689449
@@ -292,7 +292,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenEffect: {fileID: 180820, guid: a07608802ac497743a7f19f6633fdd70, type: 2}
-  loopTimeLimit: 0.7
+  loopTimeLimit: 0.6
   spawnWithoutLight: 1
   spawnWithoutSound: 1
 --- !u!1 &409472678
@@ -336,7 +336,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenEffect: {fileID: 101470, guid: cf92a1fe287dea2408d8eaac7ac27c2f, type: 2}
-  loopTimeLimit: 0.7
+  loopTimeLimit: 0.6
   spawnWithoutLight: 1
   spawnWithoutSound: 1
 --- !u!1 &450463379
@@ -380,7 +380,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenEffect: {fileID: 163420, guid: acee4f4e191fea8479aad0b4b8e1dc18, type: 2}
-  loopTimeLimit: 0.7
+  loopTimeLimit: 0.6
   spawnWithoutLight: 1
   spawnWithoutSound: 1
 --- !u!1 &485184871
@@ -424,7 +424,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenEffect: {fileID: 195466, guid: 56c3274d2f9ec214ab584a80b5ce2d6d, type: 2}
-  loopTimeLimit: 0.7
+  loopTimeLimit: 0.6
   spawnWithoutLight: 1
   spawnWithoutSound: 1
 --- !u!1001 &546355909
@@ -465,6 +465,11 @@ Prefab:
     - target: {fileID: 4972536428813450, guid: f5c964cb275792048b8d3b8f625c043e, type: 2}
       propertyPath: m_RootOrder
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 20307660208786268, guid: f5c964cb275792048b8d3b8f625c043e,
+        type: 2}
+      propertyPath: m_BackGroundColor.b
+      value: 0.078431375
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f5c964cb275792048b8d3b8f625c043e, type: 2}
@@ -510,7 +515,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenEffect: {fileID: 111486, guid: f6ac01c8c44430d46815af0e77bdcfdd, type: 2}
-  loopTimeLimit: 0.7
+  loopTimeLimit: 0.6
   spawnWithoutLight: 1
   spawnWithoutSound: 1
 --- !u!1 &863979932
@@ -554,7 +559,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenEffect: {fileID: 183892, guid: 77aff4f1c9d07704bafd856e02a46ac9, type: 2}
-  loopTimeLimit: 0.7
+  loopTimeLimit: 0.6
   spawnWithoutLight: 1
   spawnWithoutSound: 1
 --- !u!1 &945254438
@@ -598,7 +603,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenEffect: {fileID: 108514, guid: 4a3acdc5cefd5f74ebcb02914ae9be64, type: 2}
-  loopTimeLimit: 0.7
+  loopTimeLimit: 0.6
   spawnWithoutLight: 1
   spawnWithoutSound: 1
 --- !u!1 &1037772285
@@ -642,7 +647,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenEffect: {fileID: 179906, guid: 20dfdd4230d28d34fad7c8e1731f5cd0, type: 2}
-  loopTimeLimit: 0.7
+  loopTimeLimit: 0.6
   spawnWithoutLight: 1
   spawnWithoutSound: 1
 --- !u!1 &1039018055
@@ -686,7 +691,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenEffect: {fileID: 129928, guid: 2d18f84774eae954c9002a33c62fbe8b, type: 2}
-  loopTimeLimit: 0.7
+  loopTimeLimit: 0.6
   spawnWithoutLight: 1
   spawnWithoutSound: 1
 --- !u!1 &1104449437
@@ -730,7 +735,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenEffect: {fileID: 191512, guid: 6d8fb94c8f1fb7c4ba277327ad4ba3b2, type: 2}
-  loopTimeLimit: 0.7
+  loopTimeLimit: 0.6
   spawnWithoutLight: 1
   spawnWithoutSound: 1
 --- !u!1 &1125863153
@@ -930,7 +935,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenEffect: {fileID: 135726, guid: fa0f45d143def4e4188900695d955614, type: 2}
-  loopTimeLimit: 0.7
+  loopTimeLimit: 0.6
   spawnWithoutLight: 1
   spawnWithoutSound: 1
 --- !u!1 &1696465374
@@ -974,7 +979,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenEffect: {fileID: 105608, guid: 9c6af9e56f998094e8a7ade8f0e2a0a9, type: 2}
-  loopTimeLimit: 0.7
+  loopTimeLimit: 0.6
   spawnWithoutLight: 1
   spawnWithoutSound: 1
 --- !u!1 &1708583855
@@ -1060,6 +1065,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chosenEffect: {fileID: 183216, guid: d02459bf4a092d144baeb3ac2591eb3b, type: 2}
-  loopTimeLimit: 0.7
+  loopTimeLimit: 0.6
   spawnWithoutLight: 1
   spawnWithoutSound: 1

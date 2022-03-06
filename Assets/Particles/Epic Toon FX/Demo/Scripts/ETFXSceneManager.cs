@@ -4,6 +4,9 @@ using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 
+namespace EpicToonFX
+{
+
 public class ETFXSceneManager : MonoBehaviour
 {
 	public bool GUIHide = false;
@@ -41,11 +44,8 @@ public class ETFXSceneManager : MonoBehaviour
 	public void LoadSceneFire()  {
 		SceneManager.LoadScene ("etfx_fire");
 	}
-	public void LoadSceneFire2()  {
-		SceneManager.LoadScene ("etfx_fire2");
-	}
-	public void LoadSceneFire3()  {
-		SceneManager.LoadScene ("etfx_fire3");
+	public void LoadSceneOnomatopoeia()  {
+		SceneManager.LoadScene ("etfx_onomatopoeia");
 	}
 	public void LoadSceneFireworks()  {
 		SceneManager.LoadScene ("etfx_fireworks");
@@ -80,6 +80,9 @@ public class ETFXSceneManager : MonoBehaviour
 	public void LoadScenePowerups2()  {
 		SceneManager.LoadScene ("etfx_powerups2");
 	}
+	public void LoadScenePowerups3()  {
+		SceneManager.LoadScene ("etfx_powerups3");
+	}
 	public void LoadSceneSparkles()  {
 		SceneManager.LoadScene ("etfx_sparkles");
 	}
@@ -97,6 +100,9 @@ public class ETFXSceneManager : MonoBehaviour
 	}
 	public void LoadSceneWind()  {
 		SceneManager.LoadScene ("etfx_wind");
+	}
+	public void LoadSceneWater()  {
+		SceneManager.LoadScene ("etfx_water");
 	}
 	
 	void Update ()
@@ -155,4 +161,5 @@ public class ETFXSceneManager : MonoBehaviour
          }
      }
 	}	
+}
 }

@@ -58,7 +58,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   impactParticle: {fileID: 124386, guid: a70a24d8868a592499df4cf5b6dbed7d, type: 2}
-  projectileParticle: {fileID: 117536, guid: 0072ea0772d6c864f9140ac356e7aad3, type: 2}
+  projectileParticle: {fileID: 1554052670201816, guid: ae85b36cacd47e2469354cbe134e2ec9,
+    type: 2}
   muzzleParticle: {fileID: 151374, guid: 0d79fbba411af7541b91f5ae2aa2e31a, type: 2}
   colliderRadius: 0.1
   collideOffset: 0.1

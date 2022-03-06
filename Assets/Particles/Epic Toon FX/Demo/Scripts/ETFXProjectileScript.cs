@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+namespace EpicToonFX
+{
     public class ETFXProjectileScript : MonoBehaviour
     {
         public GameObject impactParticle; // Effect spawned when projectile hits a collider
@@ -69,3 +71,4 @@ using System.Collections;
             }
         }
     }
+}

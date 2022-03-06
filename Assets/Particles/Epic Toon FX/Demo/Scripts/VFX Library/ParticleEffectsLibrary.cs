@@ -2,6 +2,9 @@
 using System.Collections;
 using System.Collections.Generic;
 
+namespace ETFXPEL
+{
+
 public class ParticleEffectsLibrary : MonoBehaviour {
 	public static ParticleEffectsLibrary GlobalAccess;
 	void Awake () {
@@ -113,4 +116,5 @@ public class ParticleEffectsLibrary : MonoBehaviour {
 			Destroy(newParticleEffect, ParticleEffectLifetimes[CurrentParticleEffectIndex]);
 		}
 	}
+}
 }

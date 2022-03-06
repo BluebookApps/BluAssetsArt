@@ -2,6 +2,9 @@
 using System.Collections;
 using UnityEngine.UI;
 
+namespace ETFXPEL
+{
+
 public class UICanvasManager : MonoBehaviour {
 	public static UICanvasManager GlobalAccess;
 	void Awake () {
@@ -95,4 +98,5 @@ public class UICanvasManager : MonoBehaviour {
 			break;
 		}
 	}
+}
 }
