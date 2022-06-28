@@ -19,3 +19,4 @@ The Unity version used is 2021.3.4f1. If you haven't installed it yet, install i
 ## UI
 
 [GUI PRO Kit - Casual Game](https://github.com/BluebookApps/BluAssetsArt/tree/ui/GUIPROKit-CasualGame)
+[GUI PRO Kit - Simple Casual](https://github.com/BluebookApps/BluAssetsArt/tree/ui/GUIPROKit-SimpleCasual)
