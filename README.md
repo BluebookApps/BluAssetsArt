@@ -16,6 +16,8 @@ The Unity version used is 2021.3.4f1. If you haven't installed it yet, install i
 
 ## Shaders
 
+[Toon Water URP](https://github.com/BluebookApps/BluAssetsArt/tree/shaders/ToonWaterURP)
+
 ## UI
 
 [GUI PRO Kit - Casual Game](https://github.com/BluebookApps/BluAssetsArt/tree/ui/GUIPROKit-CasualGame)
