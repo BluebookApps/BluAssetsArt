@@ -1,27 +1,12 @@
-# Blu Assets Art
+## Realistic Effects Pack 3
 
-This is a guide to help you find library of acquired assets for projects. Each asset is in an individual branch for better organization.
-In this document, there will be a link to each library, which will take you to the asset's git page.
-Within each asset page, there is a Readme with the Asset store Link, and a series of images exemplifying the content.
+Link: [Asset Store](https://assetstore.unity.com/packages/vfx/particles/spells/realistic-effects-pack-3-27523#description)
 
-## General settings
+Images:
 
-The Unity version used is 2021.3.4f1. If you haven't installed it yet, install it from [this link](https://unity3d.com/en/get-unity/download/archive).
-
-# Assets
-
-## Objects
-
-## Particles
-
-## Shaders
-
-[Toon Water URP](https://github.com/BluebookApps/BluAssetsArt/tree/shaders/ToonWaterURP)
-
-[Toony Colors Pro 2](https://github.com/BluebookApps/BluAssetsArt/tree/shaders/ToonyColorsPro2)
-
-## UI
-
-[GUI PRO Kit - Casual Game](https://github.com/BluebookApps/BluAssetsArt/tree/ui/GUIPROKit-CasualGame)
-
-[GUI PRO Kit - Simple Casual](https://github.com/BluebookApps/BluAssetsArt/tree/ui/GUIPROKit-SimpleCasual)
+<img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/f42cbdee-7667-4ea9-bd04-a13d1f1876bf.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/06600cc8-234b-478a-90da-90e36e4b015e.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/711738d3-d4a5-4579-bd87-4ad7b7d55614.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/bc3ea868-2e54-4a65-a87e-6e6f305d5b55.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/4e741f4f-00d9-4446-9b1b-7774afd8f8c5.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/b721a050-eb3b-4c61-8099-7047455b6025.webp" width="500" height="300">
