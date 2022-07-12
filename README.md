@@ -2,9 +2,7 @@
 
 Link: [Asset Store](https://assetstore.unity.com/packages/3d/characters/fantasy-stickman-pack-194654#description)
 
-Video:
-
-[Video](https://assetstore.unity.com/packages/3d/characters/fantasy-stickman-pack-194654#description)
+Video: [Video](https://www.youtube.com/watch?v=rZMgDBEY6EY)
 
 Images:
 
