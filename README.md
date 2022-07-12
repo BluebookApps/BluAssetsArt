@@ -1,27 +1,10 @@
-# Blu Assets Art
+## 3D Hypercasual Meters
 
-This is a guide to help you find library of acquired assets for projects. Each asset is in an individual branch for better organization.
-In this document, there will be a link to each library, which will take you to the asset's git page.
-Within each asset page, there is a Readme with the Asset store Link, and a series of images exemplifying the content.
+Link: [Asset Store](https://assetstore.unity.com/packages/3d/props/food/fruit-market-152337#description)
 
-## General settings
+Images:
 
-The Unity version used is 2021.3.4f1. If you haven't installed it yet, install it from [this link](https://unity3d.com/en/get-unity/download/archive).
-
-# Assets
-
-## Objects
-
-## Particles
-
-## Shaders
-
-[Toon Water URP](https://github.com/BluebookApps/BluAssetsArt/tree/shaders/ToonWaterURP)
-
-[Toony Colors Pro 2](https://github.com/BluebookApps/BluAssetsArt/tree/shaders/ToonyColorsPro2)
-
-## UI
-
-[GUI PRO Kit - Casual Game](https://github.com/BluebookApps/BluAssetsArt/tree/ui/GUIPROKit-CasualGame)
-
-[GUI PRO Kit - Simple Casual](https://github.com/BluebookApps/BluAssetsArt/tree/ui/GUIPROKit-SimpleCasual)
+<img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/07f8db4a-3d51-4bfb-8d00-b2cc4381edd2.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/4c4d7732-553e-4d25-b1cd-0f333b41b972.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/6c7279d0-9694-42b7-b0df-8cc9c8a5a6cb.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/f1f2e0de-d595-4730-9374-90d2ce9f17d7.webp" width="500" height="300">
