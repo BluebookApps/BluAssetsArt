@@ -26,7 +26,7 @@ The Unity version used is 2021.3.4f1. If you haven't installed it yet, install i
 
 [Fruit Market](https://github.com/BluebookApps/BluAssetsArt/tree/objects/FruitMarket)
 
-[Puzzle 3D asset Pack](https://github.com/BluebookApps/BluAssetsArt/tree/objects/GameshowPack)
+[Game show Pack](https://github.com/BluebookApps/BluAssetsArt/tree/objects/GameshowPack)
 
 [Gradient Sky](https://github.com/BluebookApps/BluAssetsArt/tree/objects/GradientSky)
 
