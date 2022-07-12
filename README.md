@@ -1,27 +1,10 @@
-# Blu Assets Art
+## Nature Forest Animation Assets
 
-This is a guide to help you find library of acquired assets for projects. Each asset is in an individual branch for better organization.
-In this document, there will be a link to each library, which will take you to the asset's git page.
-Within each asset page, there is a Readme with the Asset store Link, and a series of images exemplifying the content.
+Link: [Asset Store](https://assetstore.unity.com/packages/3d/environments/landscapes/nature-forest-animation-assets-149566)
 
-## General settings
+Images:
 
-The Unity version used is 2021.3.4f1. If you haven't installed it yet, install it from [this link](https://unity3d.com/en/get-unity/download/archive).
-
-# Assets
-
-## Objects
-
-## Particles
-
-## Shaders
-
-[Toon Water URP](https://github.com/BluebookApps/BluAssetsArt/tree/shaders/ToonWaterURP)
-
-[Toony Colors Pro 2](https://github.com/BluebookApps/BluAssetsArt/tree/shaders/ToonyColorsPro2)
-
-## UI
-
-[GUI PRO Kit - Casual Game](https://github.com/BluebookApps/BluAssetsArt/tree/ui/GUIPROKit-CasualGame)
-
-[GUI PRO Kit - Simple Casual](https://github.com/BluebookApps/BluAssetsArt/tree/ui/GUIPROKit-SimpleCasual)
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/eda8bb47-cb72-43c4-9408-8029cf66ae67.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/d7fc2946-abd0-4f48-840b-d261c5376719.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/9946296e-e6d1-4ff4-846b-dc212b4eb3da.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/a67dcbe8-8acd-463e-9d99-c89624e5a486.webp" width="500" height="300">
