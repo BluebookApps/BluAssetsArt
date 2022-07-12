@@ -20,8 +20,6 @@ The Unity version used is 2021.3.4f1. If you haven't installed it yet, install i
 
 [Chibi Heroes](https://github.com/BluebookApps/BluAssetsArt/tree/objects/ChibiHeroes)
 
-[Cute Series](https://github.com/BluebookApps/BluAssetsArt/tree/objects/CuteSeries)
-
 [Fantasy Stickman Pack](https://github.com/BluebookApps/BluAssetsArt/tree/objects/FantasyStickmanPack)
 
 [Fruit Market](https://github.com/BluebookApps/BluAssetsArt/tree/objects/FruitMarket)
@@ -56,6 +54,13 @@ The Unity version used is 2021.3.4f1. If you haven't installed it yet, install i
 
 [Summer Beach Cartoon Pack](https://github.com/BluebookApps/BluAssetsArt/tree/objects/SummerBeachCartoonPack)
 
+### Cute Series
+
+[Dungeon Cute Series](https://github.com/BluebookApps/BluAssetsArt/tree/objects/Cute-Series/DungeonCuteSeries)
+
+[Monsters Ultimate Pack 06 Cute Series](https://github.com/BluebookApps/BluAssetsArt/tree/objects/Cute-Series/MonstersUltimatePack06CuteSeries)
+
+[Robots Ultimate Pack 01 Cute Series](https://github.com/BluebookApps/BluAssetsArt/tree/objects/Cute-Series/RobotsUltimatePack01CuteSeries)
 
 ## Particles
 
