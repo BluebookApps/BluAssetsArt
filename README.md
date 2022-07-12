@@ -59,7 +59,29 @@ The Unity version used is 2021.3.4f1. If you haven't installed it yet, install i
 
 ## Particles
 
+[AOE Magic spells Vol.1](https://github.com/BluebookApps/BluAssetsArt/tree/particles/AOEMagicspeelsVol.1)
+
+[ARPG Effects](https://github.com/BluebookApps/BluAssetsArt/tree/particles/ActionRPGFX)
+
+[All In 1 Vfx Tool kit](https://github.com/BluebookApps/BluAssetsArt/tree/particles/AllIn1VfxToolkit)
+
+[Epic Toon FX](https://github.com/BluebookApps/BluAssetsArt/tree/particles/EpicToonFX)
+
+[Realistic Effects Pack 3](https://github.com/BluebookApps/BluAssetsArt/tree/particles/RealisticEffectsPack3)
+
+[Simple Fireworks](https://github.com/BluebookApps/BluAssetsArt/tree/particles/SimpleFireworks)
+
+### Effect Core
+
+[Stylized Explosion Pack 2](https://github.com/BluebookApps/BluAssetsArt/tree/particles/EffectCore/StylizedExplosionPack2)
+
+[Stylized Melee Combat Pack 1](https://github.com/BluebookApps/BluAssetsArt/tree/particles/EffectCore/StylizedMeleePack1)
+
+[Stylized Projectile Pack 1](https://github.com/BluebookApps/BluAssetsArt/tree/particles/EffectCore/StylizedProjectilePack1)
+
 ## Shaders
+
+[Mobile Depth Water](https://github.com/BluebookApps/BluAssetsArt/tree/shaders/MobileDepthWater)
 
 [Toon Water URP](https://github.com/BluebookApps/BluAssetsArt/tree/shaders/ToonWaterURP)
 
