@@ -12,6 +12,8 @@ The Unity version used is 2021.3.4f1. If you haven't installed it yet, install i
 
 ## Objects
 
+[3D Hypercasual Meters](https://github.com/BluebookApps/BluAssetsArt/tree/objects/3DHypercasualMeters)
+
 [Bomb Cute Series](https://github.com/BluebookApps/BluAssetsArt/tree/objects/BombCuteSeries)
 
 [CB Lowpoly Sci-Fi Guns](https://github.com/BluebookApps/BluAssetsArt/tree/objects/CBLowpolySci-Figuns)
@@ -21,6 +23,39 @@ The Unity version used is 2021.3.4f1. If you haven't installed it yet, install i
 [Cute Series](https://github.com/BluebookApps/BluAssetsArt/tree/objects/CuteSeries)
 
 [Fantasy Stickman Pack](https://github.com/BluebookApps/BluAssetsArt/tree/objects/FantasyStickmanPack)
+
+[Fruit Market](https://github.com/BluebookApps/BluAssetsArt/tree/objects/FruitMarket)
+
+[Puzzle 3D asset Pack](https://github.com/BluebookApps/BluAssetsArt/tree/objects/GameshowPack)
+
+[Gradient Sky](https://github.com/BluebookApps/BluAssetsArt/tree/objects/GradientSky)
+
+[HyperCasual City Buildings](https://github.com/BluebookApps/BluAssetsArt/tree/objects/HyperCasualCityBuildings)
+
+[HyperCasual Jetpack Pilots](https://github.com/BluebookApps/BluAssetsArt/tree/objects/HyperCasualJetpackPilots)
+
+[Low Poly Environment World](https://github.com/BluebookApps/BluAssetsArt/tree/objects/LowPolyEnvironmentWorld)
+
+[Low Poly Free Pack (Sample) - Polyworks](https://github.com/BluebookApps/BluAssetsArt/tree/objects/LowPolyFreePack(Sample)-Polyworks)
+
+[Lowpoly Crates, Barrels & Jars](https://github.com/BluebookApps/BluAssetsArt/tree/objects/LowpolyCrates%2CBarrels%26Jars)
+
+[Minions Series - Undead Set](https://github.com/BluebookApps/BluAssetsArt/tree/objects/MinionsSeries-UndeadSet)
+
+[Nature Forest Animation Assets](https://github.com/BluebookApps/BluAssetsArt/tree/objects/NatureForest)
+
+[Pastries Pack](https://github.com/BluebookApps/BluAssetsArt/tree/objects/PastriesPack)
+
+[Pig Mega Toon Series](https://github.com/BluebookApps/BluAssetsArt/tree/objects/PigMegaToonSeries)
+
+[Quirky Series Mega Pack Vol.2](https://github.com/BluebookApps/BluAssetsArt/tree/objects/QuirkySeries)
+
+[Stylish Cannon Pack](https://github.com/BluebookApps/BluAssetsArt/tree/objects/StylishCannonPack)
+
+[Stylized Low Poly Cube World Building Pack](https://github.com/BluebookApps/BluAssetsArt/tree/objects/StylizedLowPolyCubeWorldBuildingPack)
+
+[Summer Beach Cartoon Pack](https://github.com/BluebookApps/BluAssetsArt/tree/objects/SummerBeachCartoonPack)
+
 
 ## Particles
 
