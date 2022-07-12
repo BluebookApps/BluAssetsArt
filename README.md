@@ -12,6 +12,16 @@ The Unity version used is 2021.3.4f1. If you haven't installed it yet, install i
 
 ## Objects
 
+[Bomb Cute Series](https://github.com/BluebookApps/BluAssetsArt/tree/objects/BombCuteSeries)
+
+[CB Lowpoly Sci-Fi Guns](https://github.com/BluebookApps/BluAssetsArt/tree/objects/CBLowpolySci-Figuns)
+
+[Chibi Heroes](https://github.com/BluebookApps/BluAssetsArt/tree/objects/ChibiHeroes)
+
+[Cute Series](https://github.com/BluebookApps/BluAssetsArt/tree/objects/CuteSeries)
+
+[Fantasy Stickman Pack](https://github.com/BluebookApps/BluAssetsArt/tree/objects/FantasyStickmanPack)
+
 ## Particles
 
 ## Shaders
