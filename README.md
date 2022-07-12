@@ -1,27 +1,15 @@
-# Blu Assets Art
+## AOE Magic spells Vol.1
 
-This is a guide to help you find library of acquired assets for projects. Each asset is in an individual branch for better organization.
-In this document, there will be a link to each library, which will take you to the asset's git page.
-Within each asset page, there is a Readme with the Asset store Link, and a series of images exemplifying the content.
+Link: [Asset Store](https://assetstore.unity.com/packages/vfx/particles/spells/aoe-magic-spells-vol-1-133012)
 
-## General settings
+Images:
 
-The Unity version used is 2021.3.4f1. If you haven't installed it yet, install it from [this link](https://unity3d.com/en/get-unity/download/archive).
-
-# Assets
-
-## Objects
-
-## Particles
-
-## Shaders
-
-[Toon Water URP](https://github.com/BluebookApps/BluAssetsArt/tree/shaders/ToonWaterURP)
-
-[Toony Colors Pro 2](https://github.com/BluebookApps/BluAssetsArt/tree/shaders/ToonyColorsPro2)
-
-## UI
-
-[GUI PRO Kit - Casual Game](https://github.com/BluebookApps/BluAssetsArt/tree/ui/GUIPROKit-CasualGame)
-
-[GUI PRO Kit - Simple Casual](https://github.com/BluebookApps/BluAssetsArt/tree/ui/GUIPROKit-SimpleCasual)
+<img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/f01c21c4-0de9-4cc6-9ef1-aec33f7f98db.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/cfc84826-8a0b-4820-a4a3-0b36272f261c.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/6ba8ddb9-fa93-41c6-ba64-ca8bb847cbb8.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/f87e2732-a03d-481c-8bfe-99bf7997a874.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/e84a85e0-a0f7-4fdf-b60a-16a0c9b41acf.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/f0305f24-4974-4ee4-b18a-29ff26db0e25.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/c7142695-718b-4cd6-a2c2-031ae650499c.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/24f4506a-a3fd-4792-893f-8b47fb94fa07.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/51934dd4-b5ed-4a0a-98e6-9fb16780aea9.webp" width="500" height="300">
