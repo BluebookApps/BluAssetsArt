@@ -1,27 +1,10 @@
-# Blu Assets Art
+## Dungeon Cute Series
 
-This is a guide to help you find library of acquired assets for projects. Each asset is in an individual branch for better organization.
-In this document, there will be a link to each library, which will take you to the asset's git page.
-Within each asset page, there is a Readme with the Asset store Link, and a series of images exemplifying the content.
+Link: [Asset Store](https://assetstore.unity.com/packages/3d/environments/dungeons/dungeon-cute-series-198617)
 
-## General settings
+Images:
 
-The Unity version used is 2021.3.4f1. If you haven't installed it yet, install it from [this link](https://unity3d.com/en/get-unity/download/archive).
-
-# Assets
-
-## Objects
-
-## Particles
-
-## Shaders
-
-[Toon Water URP](https://github.com/BluebookApps/BluAssetsArt/tree/shaders/ToonWaterURP)
-
-[Toony Colors Pro 2](https://github.com/BluebookApps/BluAssetsArt/tree/shaders/ToonyColorsPro2)
-
-## UI
-
-[GUI PRO Kit - Casual Game](https://github.com/BluebookApps/BluAssetsArt/tree/ui/GUIPROKit-CasualGame)
-
-[GUI PRO Kit - Simple Casual](https://github.com/BluebookApps/BluAssetsArt/tree/ui/GUIPROKit-SimpleCasual)
+<img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/f3922aa8-8ca2-4e51-a66a-723392e9b0e7.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/8c78c3af-904f-4bd0-a7af-cff5884909f8.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/ce862878-fe96-4fb6-875a-4e00a4c9f2e6.webp" width="500" height="300">
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/a884cad1-49f4-4a8a-bf99-2ea2e0edaaf3.webp" width="500" height="300">
