@@ -61,7 +61,7 @@ The Unity version used is 2021.3.4f1. If you haven't installed it yet, install i
 
 [AOE Magic spells Vol.1](https://github.com/BluebookApps/BluAssetsArt/tree/particles/AOEMagicspeelsVol.1)
 
-[ARPG Effects](https://github.com/BluebookApps/BluAssetsArt/tree/particles/ActionRPGFX)
+[Action RPG FX](https://github.com/BluebookApps/BluAssetsArt/tree/particles/ActionRPGFX)
 
 [All In 1 Vfx Tool kit](https://github.com/BluebookApps/BluAssetsArt/tree/particles/AllIn1VfxToolkit)
 
